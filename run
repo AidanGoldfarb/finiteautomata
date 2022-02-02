@@ -1,0 +1,1 @@
+gcc -Wall -Werror nfa.c -o nfa && ./nfa
